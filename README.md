@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dankarger
 - 👀 I’m interested in Music, Art, Codding
-- 🌱 I’m currently learning at the AppleSeed Bootcamp
+<!-- - 🌱 I’m currently learning at the AppleSeed Bootcamp -->
 
 
 <!---
