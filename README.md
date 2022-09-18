@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dankarger
-- 👀 I’m interested in Music, Art, Codding
+- 👀 I’m interested in Music, Art, Coding
 <!-- - 🌱 I’m currently learning at the AppleSeed Bootcamp -->
 
 
