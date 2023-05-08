@@ -2,7 +2,7 @@
 -  ##  I’m a web developer
 
 ```js 
-React, Nextjs, Javascript, Html, Css and more ...
+ Javascript, React, Nextjs, Html, Css and more ...
 
 ```
   I love creating websites, learning and trying new technologies,
