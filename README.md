@@ -1,10 +1,12 @@
 - #  ✨ Hi, my name is  *Dan Karger* ✨
--  ##  I’m a web developer
+-  ##  I’m a fullstack developer :floppy_disk:
 
 ```js 
- Javascript, React, Nextjs, Html, Css and more ...
+ Javascript, React, Nextjs, Nodejs, Html, Css and more ...
 
 ```
+[![My Skills](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,git,docker,mongodb,vim,py )](https://skillicons.dev)
+
   I love creating websites, learning and trying new technologies,
   I also love music and art.
 
