@@ -11,7 +11,7 @@
    I love creating websites, learning and trying new technologies, I also love music and art.
    ```
  <br/>
-- :floppy_disk: -> :minidisc: -> :tv: -> :computer: -> :cloud: -> :question: :grey_question:
+ :floppy_disk: -> :minidisc:  -> :computer: -> :cloud: -> :question: :grey_question:
  
 <!---
 dankarger/dankarger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
