@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @dankarger
-- 👀 I’m interested in Music, Art, Coding
-<!-- - 🌱 I’m currently learning at the AppleSeed Bootcamp -->
+- #  ✨ Hi, my name is  *Dan Karger* ✨
+-  ##  I’m a web developer
+
+```js 
+React, Nextjs, Javascript, Html, Css and more ...
+
+```
+  I love creating websites, learning and trying new technologies,
+  I also love music and art.
 
 
 <!---
