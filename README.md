@@ -1,5 +1,5 @@
 - #  ✨ Hi, my name is  *Dan Karger* ✨:technologist: 
--  ##  I’m a fullstack developer 
+-  ##   a fullstack developer 
 
 ```js 
  Javascript, React, Nextjs, Nodejs, Html, Css and more ...
